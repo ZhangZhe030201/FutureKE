@@ -1,16 +1,16 @@
-# FutureIE: A Large-Scale Dataset for Fine-Grained Entity and Relation Extraction from Future Work Sentences
+# FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers
 
 This is the official repository for the dataset and code accompanying the paper:
 
-**"FutureIE: A Large-Scale Dataset for Fine-Grained Entity and Relation Extraction from Future Work Sentences"**
+**"FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers"**
 
 FutureIE investigates future work sentences (FWS) in scientific papers and organizes them into a structured resource for frontier-oriented analysis. Based on NLP conference papers from 1952 to 2025, the project combines future work sentence recognition and entity temporal novelty analysis.
 
 ---
 
-## 📚 FutureIE
+## 📚 FutureKE
 
-FutureIE is constructed from NLP conference papers collected from ACL-related venues.  
+FutureKE is constructed from NLP conference papers collected from ACL-related venues.  
 The corpus integrates:
 
 - **73,285 papers** with metadata and full text from [The ACL OCL Corpus](https://github.com/shauryr/ACL-anthology-corpus) (Shaurya Rohatgi, 2022) . covering **1952–2022**
@@ -35,7 +35,7 @@ The repository currently contains two main code modules:
 ## 📦 Repository Structure
 
 ```text
-FutureIE/
+FutureKE/
 ├─ README.md
 ├─ LICENSE
 ├─ .gitignore
