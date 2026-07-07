@@ -1,17 +1,17 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="105" align="center" valign="middle" style="border: none;">
-      <img
-        src="./FWS_Recognition/data/FutureKE.png"
-        alt="FutureKE Logo"
-        width="80"
-      />
-    </td>
-    <td valign="middle" style="border: none;">
-      <h1>FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers</h1>
-    </td>
-  </tr>
-</table>
+<div>
+  <img
+    src="./FWS_Recognition/data/FutureKE.png"
+    alt="FutureKE Logo"
+    width="110"
+    align="left"
+    hspace="16"
+    vspace="8"
+  />
+
+  <h1>FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers</h1>
+</div>
+
+<br clear="left">
 
 This is the official repository for the dataset and code accompanying the paper:
 
