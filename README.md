@@ -1,4 +1,14 @@
-# FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers
+<img
+  src=".Raw_age_Analysis/data/FutureKE.png"
+  alt="FutureIE Logo"
+  width="70"
+  align="left"
+  hspace="12"
+/>
+<h1>
+   FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers
+</h1>
+<br clear="left">
 
 This is the official repository for the dataset and code accompanying the paper:
 
