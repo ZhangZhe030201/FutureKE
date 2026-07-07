@@ -1,5 +1,5 @@
 <img
-  src=".Raw_age_Analysis/data/FutureKE.png"
+  src="./FWS_Recognition/data/FutureKE.png"
   alt="FutureIE Logo"
   width="70"
   align="left"
