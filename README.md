@@ -4,7 +4,7 @@ This is the official repository for the dataset and code accompanying the paper:
 
 **"FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers"**
 
-FutureIE investigates future work sentences (FWS) in scientific papers and organizes them into a structured resource for frontier-oriented analysis. Based on NLP conference papers from 1952 to 2025, the project combines future work sentence recognition and entity temporal novelty analysis.
+FutureKE investigates future work sentences (FWS) in scientific papers and organizes them into a structured resource for frontier-oriented analysis. Based on NLP conference papers from 1952 to 2025, the project combines future work sentence recognition and entity temporal novelty analysis.
 
 ---
 
@@ -17,7 +17,7 @@ The corpus integrates:
 - **31,555 papers** covering **2023–2025** collected from [the ACL Anthology](https://aclanthology.org/) PDFs and parsed into editable text through [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 
 
-On top of this corpus, FutureIE identifies future work sentences through rule-based filtering and a fine-tuned [SciBERT](https://github.com/allenai/scibert) classifier, and then extracts entities and semantic relations using [HGERE](https://github.com/yanzhh/HGERE).
+On top of this corpus, FutureKE identifies future work sentences through rule-based filtering and a fine-tuned [SciBERT](https://github.com/allenai/scibert) classifier, and then extracts entities and semantic relations using [HGERE](https://github.com/yanzhh/HGERE).
 
 The resulting dataset includes:
 
@@ -164,8 +164,8 @@ Before running the novelty analysis module, please edit the input and output pat
 If you use this repository, please cite the corresponding paper and the major upstream resources used in this project.
 
 ```bibtex
-@misc{futureie,
-  title={FutureIE: A Large-Scale Dataset for Fine-Grained Entity and Relation Extraction from Future Work Sentences},
+@misc{futureke,
+  title={FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers},
   author={Anonymous},
   year={2026},
   note={Dataset and code repository}
