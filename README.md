@@ -1,10 +1,9 @@
-<img
+<h1><img
   src="./FWS_Recognition/data/FutureKE.png"
   alt="FutureIE Logo"
   height="40"
   align="middle"
 />
-<h1>
    FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers
 </h1>
 <br clear="left">
