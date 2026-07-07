@@ -1,13 +1,13 @@
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="85" align="center" valign="middle">
+    <td width="105" align="center" valign="middle" style="border: none;">
       <img
         src="./FWS_Recognition/data/FutureKE.png"
         alt="FutureKE Logo"
-        width="65"
+        width="80"
       />
     </td>
-    <td valign="middle">
+    <td valign="middle" style="border: none;">
       <h1>FutureKE: Fine-Grained Knowledge Entity and Relation Extraction from Future Work Sentences in Scientific Papers</h1>
     </td>
   </tr>
